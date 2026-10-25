@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 /// Custom builder method to create custom buttons by index
 typedef GroupButtonIndexedBuilder = Widget Function(

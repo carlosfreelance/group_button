@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:group_button/group_button.dart';
 import 'package:group_button/src/options/defaults.dart';
 

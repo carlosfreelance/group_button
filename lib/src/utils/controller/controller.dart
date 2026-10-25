@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 /// GroupButton Controller
 /// for working with GroupButton from the outside
